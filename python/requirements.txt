@@ -1,0 +1,8 @@
+pandas
+matplotlib
+scikit-learn
+yfinance
+python-telegram-bot
+seaborn
+requests
+json
